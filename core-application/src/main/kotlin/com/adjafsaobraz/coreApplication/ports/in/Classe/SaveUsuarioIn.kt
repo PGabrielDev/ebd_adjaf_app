@@ -1,7 +1,7 @@
-package com.adjafsaobraz.coreApplication.ports.out
+package com.adjafsaobraz.coreApplication.ports.`in`.Classe
 
 import com.adjafsaobraz.coreApplication.core.domain.Usuario
 
-interface SaveUsuarioOut {
+interface SaveUsuarioIn {
     fun saveUsuario(usuario: Usuario): Usuario
 }

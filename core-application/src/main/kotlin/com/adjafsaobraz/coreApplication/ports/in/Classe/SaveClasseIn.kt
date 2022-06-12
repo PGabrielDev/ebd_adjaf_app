@@ -1,7 +1,7 @@
-package com.adjafsaobraz.coreApplication.ports.out
+package com.adjafsaobraz.coreApplication.ports.`in`.Classe
 
 import com.adjafsaobraz.coreApplication.core.domain.Classe
 
-interface SaveClasseOut {
+interface SaveClasseIn {
     fun saveClasse(classe: Classe): Classe
 }

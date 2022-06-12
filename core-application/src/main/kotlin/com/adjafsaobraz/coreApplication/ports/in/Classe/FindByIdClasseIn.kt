@@ -1,8 +1,8 @@
-package com.adjafsaobraz.coreApplication.ports.`in`
+package com.adjafsaobraz.coreApplication.ports.`in`.Classe
 
 import com.adjafsaobraz.coreApplication.core.domain.Classe
 import java.util.Optional
 
 interface FindByIdClasseIn {
-    fun FindByIdClasse(id:String): Optional<Classe>
+    fun FindByIdClasse(id:String): Classe
 }

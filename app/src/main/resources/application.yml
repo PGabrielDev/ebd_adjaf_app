@@ -1,0 +1,12 @@
+server:
+  port: 3009
+
+spring:
+  data:
+    mongodb:
+      authentication:
+        database: db_adjaf
+
+      uri: mongodb+srv://admin:QajlrRxbWADR4jdz@cluster0.xygwf.mongodb.net/db_adjaf?retryWrites=true&w=majority
+
+

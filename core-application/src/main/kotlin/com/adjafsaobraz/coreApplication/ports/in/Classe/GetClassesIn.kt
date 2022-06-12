@@ -1,4 +1,4 @@
-package com.adjafsaobraz.coreApplication.ports.`in`
+package com.adjafsaobraz.coreApplication.ports.`in`.Classe
 
 import com.adjafsaobraz.coreApplication.core.domain.Classe
 
