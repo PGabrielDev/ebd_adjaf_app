@@ -1,4 +1,4 @@
-package com.adjafsaobraz.coreApplication.useCases
+package com.adjafsaobraz.coreApplication.useCases.Classes
 
 import com.adjafsaobraz.coreApplication.core.domain.Classe
 import com.adjafsaobraz.coreApplication.ports.`in`.Classe.GetClassesIn

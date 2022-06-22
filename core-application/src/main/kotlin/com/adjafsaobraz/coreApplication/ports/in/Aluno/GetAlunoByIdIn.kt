@@ -2,7 +2,7 @@ package com.adjafsaobraz.coreApplication.ports.`in`.Aluno
 
 import com.adjafsaobraz.coreApplication.core.domain.Aluno
 
-interface getAlunoByIdIn {
+interface GetAlunoByIdIn {
 
     fun getAlunoById(id: String): Aluno
 }
